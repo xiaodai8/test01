@@ -7,6 +7,6 @@ package com.test;
 public class Test {
 
 	public void name(){
-		System.out.println("第一个11111");
+		System.out.println("第二个222222");
 	}
 }
