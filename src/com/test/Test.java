@@ -7,6 +7,6 @@ package com.test;
 public class Test {
 
 	public void name(){
-		System.out.println("第三个11111");
+		System.out.println("要用第四个");
 	}
 }
